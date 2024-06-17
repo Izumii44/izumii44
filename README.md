@@ -1,16 +1,29 @@
-## Hi there 👋
+<img align="center" height="auto"
+src="https://cardivo.vercel.app/api?name=Izumii&description=Hi,%20i%27m%20a%20just%20newbie%20programer%20Nice%20to%20meet%20you%20👋&image=https://avatars.githubusercontent.com/u/123540213?v=4&backgroundColor=%23ecf0f1&github=izumii44&pattern=leaf&colorPattern=%23eaeaea"/>
 
-<!--
-**Izumii44/izumii44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> 
+  Visitor Count<br>
+  <img src="https://profile-counter.glitch.me/izumii44/count.svg" />
+</p>
 
-Here are some ideas to get you started:
+## Helloo Guys <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+Hi, I'm Izumi ><
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Spotify Playing 🎧
+
+[<img src="https://spotify-rtwone.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31peidtjmv4itssgg5awhg24mxoe?si=yvKmz8vFQY2YQZOz5PEbPg&utm_source=copy-link)
+</br>![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31peidtjmv4itssgg5awhg24mxoe)
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
+
+### About Me
+```js
+const izumi = () => {
+  return {
+    pronouns: "He" | "Him",
+    country: "Indonesia",
+    bio: "Only god can judge me."
+  }
+}
+```
